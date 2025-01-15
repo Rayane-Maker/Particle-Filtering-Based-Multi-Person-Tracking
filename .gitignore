@@ -1,0 +1,40 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyTorch and YOLO weight files
+*.pth
+*.pt
+weights/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build and dist folders
+build/
+dist/
+*.egg-info/
+
+
+# Video
+.mp4
